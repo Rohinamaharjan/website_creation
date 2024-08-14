@@ -203,7 +203,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/background_image_new_website.jpg);
+	background-image: url(./websitepics/background_image_new_website.jpg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -294,7 +294,7 @@ p {
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(./img/cards_image_bcg.png);
+	background-image: url(./websitepics/cards_image_bcg.png);
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
@@ -332,7 +332,7 @@ p {
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 70px; /* Increased border-radius for more rounded corners */
-	background-image: url(./img/cards_image_bcg.png);
+	background-image: url(./websitepics/cards_image_bcg.png);
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
